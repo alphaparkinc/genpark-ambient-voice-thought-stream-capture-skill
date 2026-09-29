@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-ambient-voice-thought-stream-capture-skill"
+version = "1.0.0"
+description = "Ambient thought and voice note capture stream extracting structured action items and knowledge tags"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
