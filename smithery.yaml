@@ -1,0 +1,6 @@
+name: genpark-ambient-voice-thought-stream-capture-skill
+version: 1.0.0
+description: Ambient thought and voice note capture stream extracting structured action items and knowledge tags
+command: python
+args:
+  - mcp_server.py
